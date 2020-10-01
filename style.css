@@ -1,0 +1,17 @@
+body {
+	text-align: center;
+	background-color: antiquewhite;
+
+}
+
+h1 {
+	font-variant: small-caps;
+	font-family: fantasy;
+	font-size: 30px;
+	color: blueviolet;
+}
+
+p {
+	text-align: center;
+	font-size: 20px;
+}
